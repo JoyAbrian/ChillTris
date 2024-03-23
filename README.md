@@ -16,5 +16,5 @@ Welcome to Chilltris, a relaxed twist on the classic Tetris game where there's n
 ## Contributing:
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Credits:
+[How to make Tetris in Unity (Complete Tutorial) 🧩🧱 by Zigurous](https://www.youtube.com/watch?v=ODLzYI4d-J8&t=762s&ab_channel=Zigurous)
