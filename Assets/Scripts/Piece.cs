@@ -37,6 +37,10 @@ public class Piece : MonoBehaviour
         { 
             Move(Vector2Int.right);
         }
+        else if (Input.GetKeyDown(KeyCode.S))
+        {
+            Move(Vector2Int.down);
+        }
 
         this.board.Set(this);
     }
