@@ -1,6 +1,6 @@
 # Chilltris
 
-Welcome to Chilltris, a relaxed twist on the classic Tetris game where there's no pressure to chase scores or beat high scores. Just sit back, play at your own pace, and enjoy the soothing experience of arranging blocks.
+Welcome to Chilltris, a relaxing twist on the classic Tetris game where there's no pressure to chase scores or beat high scores. Just sit back, play at your own pace, and enjoy the soothing experience of arranging blocks.
 
 ## Features:
 - **No Score System**: Unlike traditional Tetris games, Chilltris doesn't focus on scoring. It's all about relaxation and enjoying the game without any competitive pressure.
